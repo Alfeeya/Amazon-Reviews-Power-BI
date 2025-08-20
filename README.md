@@ -18,8 +18,8 @@ The full Power BI report (.pbix) is available here:
 - Customer sentiment analysis
 
 ## Power BI dashboard analyzing Amazon product reviews
-## Ratings Distribution
+## KPI Overview & Slicer
 <img width="960" height="509" alt="Screenshot 2025-08-20 165812" src="https://github.com/user-attachments/assets/2a60c06a-e9fe-470e-87ca-1362f59b678f" />
 
-## KPI Overview & Slicer
+##  Ratings Distribution
 <img width="959" height="509" alt="Screenshot 2025-08-20 165738" src="https://github.com/user-attachments/assets/11a5cf5e-3d7d-470c-aa4e-ecfd877c27e3" />
